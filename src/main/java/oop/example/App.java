@@ -9,16 +9,11 @@ public class App
     {
         Scanner getUserName = new Scanner(System.in);
 
-        System.out.print( "What is your first name? ");
+        System.out.print( "What is your name? ");
 
         String userName = getUserName.nextLine();
 
         System.out.printf("Hello %s, nice to meet you!\n", userName);
-
-
-
-
-
     }
 
 
