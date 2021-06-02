@@ -13,7 +13,7 @@ public class App
 
         String userName = getUserName.nextLine();
 
-        System.out.printf("Hello %s, nice to meet you!\n", userName);
+        System.out.println("Hello, " + userName  +". Nice to meet you!");
     }
 
 
