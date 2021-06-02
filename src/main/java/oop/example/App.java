@@ -12,8 +12,9 @@ public class App
         System.out.print( "What is your name? ");
 
         String userName = getUserName.nextLine();
+        String output = "Hello, " + userName  +". Nice to meet you!";
 
-        System.out.println("Hello, " + userName  +". Nice to meet you!");
+        System.out.println(output);
     }
 
 
