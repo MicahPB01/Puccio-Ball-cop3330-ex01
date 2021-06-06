@@ -1,6 +1,11 @@
 package oop.example;
 
 //Exercise 01
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Micah Puccio-Ball
+ */
+
 import java.util.Scanner;
 public class App 
 {
